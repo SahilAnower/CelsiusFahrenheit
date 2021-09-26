@@ -1,0 +1,25 @@
+body{
+    background-color: #F9D5A7;
+    color: #000;
+}
+
+.container{
+    background-color: #FFB085;
+    padding: 100px;
+    margin-top: 200px;
+    display: inline-block;
+    margin-left: 400px;
+    text-align: center;
+    box-shadow: 0 0 10px 1px #FFF;
+}
+
+.btn{
+    background-color: #150050;
+    color: #FFF;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    background-color: #3D56B2;
+}
